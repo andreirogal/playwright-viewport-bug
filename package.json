@@ -1,0 +1,23 @@
+{
+  "name": "playwright-viewport-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreirogal/playwright-viewport-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreirogal/playwright-viewport-bug/issues"
+  },
+  "homepage": "https://github.com/andreirogal/playwright-viewport-bug#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3"
+  }
+}
