@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/andreirogal/playwright-viewport-bug#readme",
   "devDependencies": {
-    "@playwright/test": "^1.16.3"
+    "@playwright/test": "^1.19.1"
   }
 }
