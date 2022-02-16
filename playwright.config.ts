@@ -2,7 +2,7 @@ import {devices, PlaywrightTestConfig} from '@playwright/test';
 
 const config: PlaywrightTestConfig = {
     use: {
-        ...devices['iPhone X']
+        ...devices['Galaxy S8']
     }
 };
 export default config;
